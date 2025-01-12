@@ -7,9 +7,9 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 ## SQL Queries
 ## The following SQL queries are included in the project:
 1. Write a query to find the top 5 most frequently ordered dishes by customer called "Arjun Mehta" in the last 1 year.<br/>
-2: Identify the time slots during which the most orders are placed. based on 2-hour intervals.
-3: Find the average order value per customer who has placed more than 750 orders.
-4: List the customers who have spent more than 100K in total on food orders.
-5: Write a query to find orders that were placed but not delivered.
+2: Identify the time slots during which the most orders are placed. based on 2-hour intervals..<br/>
+3: Find the average order value per customer who has placed more than 750 orders..<br/>
+4: List the customers who have spent more than 100K in total on food orders..<br/>
+5: Write a query to find orders that were placed but not delivered..<br/>
 AND More
 
