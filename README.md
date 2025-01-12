@@ -12,3 +12,4 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 4: List the customers who have spent more than 100K in total on food orders.
 5: Write a query to find orders that were placed but not delivered.
 AND More
+
